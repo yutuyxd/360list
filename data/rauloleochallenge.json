@@ -32,5 +32,11 @@
             "percent": 100,
             "hz": 240
         }
+        {
+            "user": "ivi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
