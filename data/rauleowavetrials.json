@@ -9,16 +9,10 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "MartetosTetos",
+            "link": "",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
