@@ -9,16 +9,28 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "AngelLainus",
+            "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ElSanti",
+            "link": "",
             "percent": 100,
-            "hz": 120
+            "hz": 240
+        }
+        {
+            "user": "ivi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+        {
+            "user": "MartetosTetos",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
