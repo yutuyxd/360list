@@ -1,0 +1,18 @@
+{
+    "id": 133597709,
+    "name": "TODOJODO challeng",
+    "author": "yutuyxd",
+    "creators": ["yutuyxd"],
+    "verifier": "yutuyxd",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
